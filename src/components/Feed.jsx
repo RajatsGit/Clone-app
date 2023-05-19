@@ -27,7 +27,6 @@ const Feed = () => {
       <Typography className='copyright'
       variant='body2' sx={{ mt:1.5, 
       color: '#fff'}}>
-       CporRight 2022 JSM Media
       </Typography>
       </Box>
       <Box p={2} 
